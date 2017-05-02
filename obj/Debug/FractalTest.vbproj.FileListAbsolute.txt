@@ -1,0 +1,11 @@
+C:\files\Visual Studio Projects\FractalTest\obj\Debug\FractalTest.exe
+C:\files\Visual Studio Projects\FractalTest\obj\Debug\FractalTest.pdb
+C:\files\Visual Studio Projects\FractalTest\obj\Debug\FractalTest.vbprojResolveAssemblyReference.cache
+C:\files\Visual Studio Projects\FractalTest\bin\FractalTest.exe.config
+C:\files\Visual Studio Projects\FractalTest\bin\FractalTest.exe
+C:\files\Visual Studio Projects\FractalTest\bin\FractalTest.pdb
+C:\files\Visual Studio Projects\FractalTest\bin\FractalTest.xml
+C:\files\Visual Studio Projects\FractalTest\bin\BitmapMarshaler.dll
+C:\files\Visual Studio Projects\FractalTest\obj\Debug\FractalTest.Form1.resources
+C:\files\Visual Studio Projects\FractalTest\obj\Debug\FractalTest.vbproj.GenerateResource.Cache
+C:\files\Visual Studio Projects\FractalTest\obj\Debug\FractalTest.xml

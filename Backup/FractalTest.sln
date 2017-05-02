@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FractalTest", "FractalTest.vbproj", "{2DAD8BFB-ECE8-418C-84B3-6A650EB4D0F8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2DAD8BFB-ECE8-418C-84B3-6A650EB4D0F8}.Debug.ActiveCfg = Debug|.NET
+		{2DAD8BFB-ECE8-418C-84B3-6A650EB4D0F8}.Debug.Build.0 = Debug|.NET
+		{2DAD8BFB-ECE8-418C-84B3-6A650EB4D0F8}.Release.ActiveCfg = Release|.NET
+		{2DAD8BFB-ECE8-418C-84B3-6A650EB4D0F8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
